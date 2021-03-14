@@ -1,4 +1,4 @@
-# flutter_kos
+# Cozy_Room
 
 A new Flutter project.
 
